@@ -243,8 +243,8 @@ Compare two models available inside the same organisation and one external refer
 
 | Label | Model | Description |
 |---|---|---|
-| **Model A** | Gemini Pro 3.1, Advanced Reasoning | The organisation's general-purpose AI assistant |
-| **Model B** | Claude Sonnet 5.5, via a Credal.ai agent ("Boms") | A custom agent grounded in the internal knowledge base and FAQ |
+| **Model A** | “An internal general-purpose assistant” - ***i Pro **.1, Advanced Reasoning | The organisation's general-purpose AI assistant |
+| **Model B** | An internal agent grounded in the knowledge base - C**** S****t 5.*, via a Credal.ai agent ("Boms") | A custom agent grounded in the internal knowledge base and FAQ |
 | **Model C** | GPT-6 (OpenAI reasoning model) | External reference model, not grounded in internal content |
 
 ### The prompt as run
