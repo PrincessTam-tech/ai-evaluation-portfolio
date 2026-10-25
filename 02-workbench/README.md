@@ -1,5 +1,5 @@
 
-Evaluation pipeline for a fictional fintech support assistant (NovaPay).
+# """Evaluation pipeline for a fictional fintech support assistant (NovaPay).
 
 Layers:
   1. Component  - intent recognition (predicted vs labelled intent)
