@@ -1,4 +1,4 @@
-"""
+
 Evaluation pipeline for a fictional fintech support assistant (NovaPay).
 
 Layers:
